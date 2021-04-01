@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="add_button_text">#D23A3A3A</color>
+    <color name="task_holder_day_stroke">#1E88E5</color>
+    <color name="task_holder_day">#36FFB300</color>
+    <color name="task_add_day">#46FF8E05</color>
+    <color name="task_holder_night_stroke">#B4611732</color>
+    <color name="task_holder_night">#4A3A2BFF</color>
+    <color name="gray_trans">#1E1E1E1E</color>
+    <color name="green">#40B545</color>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Todo List 44</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="input_task">Введите задачу …</string>
+    <string name="input_description">Введите описание …</string>
+    <string name="input_date">Выберите дату …</string>
+    <string name="add">Добавьте задачу</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+    <string name="sort_by_date">sort</string>
+    <string name="update">Обновить</string>
+    <string name="title">Введите заметку …</string>
+    <string name="add_desc">Введите описание …</string>
+    <string name="add_date">Выберите дату:</string>
+</resources>

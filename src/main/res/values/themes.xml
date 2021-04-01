@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="myBackground">@style/day_background</item>
+        <item name="fabColor">@style/fab_day</item>
+        <item name="textView">@style/textView_day</item>
+        <item name="text_color">@style/text_day</item>
+    </style>
+
+    <style name="MyThemeDark" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="myBackground">@style/night_background</item>
+        <item name="fabColor">@style/fab_night</item>
+        <item name="textView">@style/textView_night</item>
+        <item name="text_color">@style/text_night</item>
+    </style>
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+
+    <style name="day_background">
+        <item name="android:background">@drawable/backround_day</item>
+    </style>
+
+    <style name="night_background">
+        <item name="android:background">@drawable/background_night</item>
+    </style>
+
+    <style name="fab_day">
+        <item name="backgroundTint">#FFDD7A</item>
+        <item name="tint">@color/task_holder_day_stroke</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+
+    <style name="fab_night">
+        <item name="backgroundTint">#881B34</item>
+        <item name="tint">@color/purple_700</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+
+    <style name="textView_day">
+        <item name="android:background">@drawable/textview_background_day</item>
+    </style>
+
+    <style name="textView_night">
+        <item name="android:background">@drawable/text_view_background_night</item>
+    </style>
+
+    <style name="text_day">
+
+        <item name="android:textColorHint">#EB4C4C4C</item>
+        <item name="android:color">#79373737</item>
+    </style>
+
+    <style name="text_night">
+        <item name="android:textColorHint">#DCFFFCFC</item>
+        <item name="android:color">@color/white</item>
+    </style>
+
+</resources>

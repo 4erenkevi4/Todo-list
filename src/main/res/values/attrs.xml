@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="myBackground" format="reference" />
+    <attr name="addPageBackground" format="reference" />
+    <attr name="fabColor" format="reference" />
+    <attr name="textView" format="reference"/>
+    <attr name="text_color" format="reference"/>
+</resources>
